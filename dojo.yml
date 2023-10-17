@@ -12,7 +12,7 @@ award:
 
 modules:
 
-  - id: tinyvm
+  - id: tinyVM
     name: 【威胁建模目标：TinyVM】
     description: TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C. https://github.com/jakogut/tinyvm
 
