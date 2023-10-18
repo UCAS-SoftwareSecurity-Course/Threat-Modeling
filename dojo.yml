@@ -12,8 +12,8 @@ award:
 
 modules:
 
-  - id: tinyVM
-    name: 【威胁建模目标：TinyVM】
+  - id: tinyvm
+    name: 威胁建模目标：TinyVM
     description: TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C. https://github.com/jakogut/tinyvm
 
     challenges:
@@ -21,8 +21,8 @@ modules:
         name: start
         description: 项目源代码和实验报告大纲存放在 /challenge 目录下
 
-  - id: light-ftp
-    name: 【威胁建模目标：LightFTP】
+  - id: lightftp
+    name: 威胁建模目标：LightFTP
     description: TinyVM is a small x86-32/x64 FTP Server. https://github.com/hfiref0x/LightFTP
 
     challenges:
@@ -30,8 +30,8 @@ modules:
         name: start
         description: 项目源代码和实验报告大纲存放在 /challenge 目录下
 
-  - id: OJ_Sandbox
-    name: 【威胁建模目标：Judger】
+  - id: ojsandbox
+    name: 威胁建模目标：Judger
     description: Judger is a sandbox based on seccomp for Online Judge system. https://github.com/QingdaoU/Judger
 
     challenges:
@@ -40,7 +40,7 @@ modules:
         description: 项目源代码和实验报告大纲存放在 /challenge 目录下
 
   - id: chatroom
-    name: 【威胁建模目标：ChatRoom】
+    name: 威胁建模目标：ChatRoom
     description: ChatRoom is a simple chating room, based on node.js, express and socket.io. https://github.com/cleverqin/node-websocket-Chatroom
     challenges:
       - id: start
@@ -48,7 +48,7 @@ modules:
         description: 项目源代码和实验报告大纲存放在 /challenge 目录下
   
   - id: mydb
-    name: 【威胁建模目标：MyDB】
+    name: 威胁建模目标：MyDB
     description: MyDB is a simple database implementation by java. https://github.com/CN-GuoZiyang/MYDB
 
     challenges:
@@ -57,7 +57,7 @@ modules:
         description: 项目源代码和实验报告大纲存放在 /challenge 目录下
   
   - id: dsvpn
-    name: 【威胁建模目标：DSVPN】
+    name: 威胁建模目标：DSVPN
     description: DSVPN is a Dead Simple VPN, designed to address the most common use case for using a VPN. https://github.com/jedisct1/dsvpn
 
     challenges:
@@ -66,7 +66,7 @@ modules:
         description: 项目源代码和实验报告大纲存放在 /challenge 目录下
 
   - id: polyglot
-    name: 【威胁建模目标：polyglot】
+    name: 威胁建模目标：polyglot
     description: Polyglot is an application based on ChatGPT and Azure artificial intelligence language models, which aims to provide an easy-to-use language practice platform for multilingual oral practice. https://github.com/liou666/polyglot
 
     challenges:
