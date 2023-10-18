@@ -65,9 +65,9 @@ modules:
         name: start
         description: 项目源代码和实验报告大纲存放在 /challenge 目录下
 
-  - id: chatgpt-web
-    name: 【威胁建模目标：ChatGPT-Web】
-    description: ChatGPT Web App built with Express and Vue3. https://github.com/Chanzhaoyu/chatgpt-web
+  - id: polyglot
+    name: 【威胁建模目标：polyglot】
+    description: Polyglot is an application based on ChatGPT and Azure artificial intelligence language models, which aims to provide an easy-to-use language practice platform for multilingual oral practice. https://github.com/liou666/polyglot
 
     challenges:
       - id: start
